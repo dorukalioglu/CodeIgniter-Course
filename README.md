@@ -1,1 +1,1 @@
-# CodeIgniter-Course
+# CodeIgniter Course Files. Free to learn.
